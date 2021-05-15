@@ -19,10 +19,8 @@ public class Alien : MonoBehaviour, IShootable
 
     public void OnShot(Bullet bullet)
     {
-        if (bullet.team != team)
-        {
-            Destroy(this.gameObject);
-        }
+        bullet.speed = 0;
+        Destroy(this.gameObject);
     }
 
     public Team GetTeam()

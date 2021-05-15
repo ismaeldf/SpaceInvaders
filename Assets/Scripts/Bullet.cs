@@ -15,12 +15,18 @@ public class Bullet : MonoBehaviour
     public Team team;
     
     public Vector2 direction;
+    
     public float speed;
+    
     Rigidbody2D rb;
+
+    private Animator animator;
+    private static readonly int Hit = Animator.StringToHash("Hit");
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     private void FixedUpdate()
@@ -33,7 +39,12 @@ public class Bullet : MonoBehaviour
         IShootable shootable = other.GetComponent<IShootable>();
         if (shootable!=null)
         {
-            shootable.OnShot(this);
+            if (shootable.GetTeam() != team)
+            {
+                animator.SetTrigger(Hit);
+                shootable.OnShot(this);
+            }
+
             return;
         }
         Destroy(this.gameObject);
