@@ -1,0 +1,179 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/ismaeldf/Documents/offline/game/SpaceInvaders
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49692
+Successfully changed project path to: /Users/ismaeldf/Documents/offline/game/SpaceInvaders
+/Users/ismaeldf/Documents/offline/game/SpaceInvaders
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ismaeldf/Documents/offline/game/SpaceInvaders/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-15 10:57:35.800 Unity[1267:28005] Color LCD preferred device: Intel(R) UHD Graphics 630 (low power)
+2021-05-15 10:57:35.800 Unity[1267:28005] Metal devices available: 2
+2021-05-15 10:57:35.800 Unity[1267:28005] 0: AMD Radeon Pro 560X (high power)
+2021-05-15 10:57:35.800 Unity[1267:28005] 1: Intel(R) UHD Graphics 630 (low power)
+2021-05-15 10:57:35.800 Unity[1267:28005] Using device AMD Radeon Pro 560X (high power)
+Initializing Metal device caps: AMD Radeon Pro 560X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56267
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000631 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 42.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.758 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000537 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 60.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.620 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.8 MB.
+System memory in use after: 157.8 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2554.
+Total: 2.500394 ms (FindLiveObjects: 0.224666 ms CreateObjectMapping: 0.091257 ms MarkObjects: 2.049551 ms  DeleteObjects: 0.133423 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/YellowAlien.prefab
+  artifactKey: Guid(5e58e5306a4e14b81a02d8433a5d3013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/YellowAlien.prefab using Guid(5e58e5306a4e14b81a02d8433a5d3013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219f755b692ddd7305a8404adf8c4c5c') in 1.677575 seconds
+  Import took 1.682047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Prefabs/PurpleAlien.prefab
+  artifactKey: Guid(87ed7605ff906400f81d500088f5fd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PurpleAlien.prefab using Guid(87ed7605ff906400f81d500088f5fd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6a00ad606f9b8c39496abbaeee61ba') in 0.027614 seconds
+  Import took 0.032801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Prefabs/OrangeAlien.prefab
+  artifactKey: Guid(7f0fae40b8c464a92bb9efb3f181d673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/OrangeAlien.prefab using Guid(7f0fae40b8c464a92bb9efb3f181d673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972cdce5b66a7b98880127116911a767') in 0.019576 seconds
+  Import took 0.024087 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002796 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.949 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 165.6 MB.
+System memory in use after: 165.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2565.
+Total: 3.442227 ms (FindLiveObjects: 0.212456 ms CreateObjectMapping: 0.092634 ms MarkObjects: 2.873341 ms  DeleteObjects: 0.261508 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 190.867746 seconds.
+  path: Assets/Prefabs/OrangeAlien.prefab
+  artifactKey: Guid(7f0fae40b8c464a92bb9efb3f181d673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/OrangeAlien.prefab using Guid(7f0fae40b8c464a92bb9efb3f181d673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dceae8210ddcddfa626683fd52cc51b4') in 0.084496 seconds
+  Import took 0.088634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Prefabs/YellowAlien.prefab
+  artifactKey: Guid(5e58e5306a4e14b81a02d8433a5d3013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/YellowAlien.prefab using Guid(5e58e5306a4e14b81a02d8433a5d3013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba353507453d80496aa80ba0176c587') in 0.023679 seconds
+  Import took 0.027811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Prefabs/PurpleAlien.prefab
+  artifactKey: Guid(87ed7605ff906400f81d500088f5fd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PurpleAlien.prefab using Guid(87ed7605ff906400f81d500088f5fd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd48da92978cad057db37d19430f97f1d') in 0.018333 seconds
+  Import took 0.022607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.254375 seconds.
+  path: Assets/Prefabs/PlayerShip.prefab
+  artifactKey: Guid(d2b7e035466534860a928747a62171d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerShip.prefab using Guid(d2b7e035466534860a928747a62171d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac9e71cfdff5d9361ba7d29ceea22b71') in 0.047152 seconds
+  Import took 0.051354 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000593 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.912 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 165.9 MB.
+System memory in use after: 165.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2570.
+Total: 2.032474 ms (FindLiveObjects: 0.205850 ms CreateObjectMapping: 0.068700 ms MarkObjects: 1.671597 ms  DeleteObjects: 0.085395 ms)
+
