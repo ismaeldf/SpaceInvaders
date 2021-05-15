@@ -7,6 +7,7 @@ using Random = UnityEngine.Random;
 public class Alien : MonoBehaviour, IShootable
 {
     public Team team;
+    [HideInInspector]
     public Weapon weapon;
 
     private void Awake()
