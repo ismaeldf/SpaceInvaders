@@ -313,3 +313,243 @@ System memory in use after: 167.4 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2598.
 Total: 2.278862 ms (FindLiveObjects: 0.224846 ms CreateObjectMapping: 0.087774 ms MarkObjects: 1.866581 ms  DeleteObjects: 0.098561 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 677.964247 seconds.
+  path: Assets/Animations/Characters/Purple.Alien.controller
+  artifactKey: Guid(e998ea7118cdf4b149210e488232da7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/Purple.Alien.controller using Guid(e998ea7118cdf4b149210e488232da7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b3a7a45472e8b1b29726023d6371df') in 0.378719 seconds
+  Import took 0.382467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.932109 seconds.
+  path: Assets/Animations/Characters/Purple.Alien.Override.overrideController
+  artifactKey: Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/Purple.Alien.Override.overrideController using Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac1a99c20e808eaffc638201d6a9dcf') in 0.170599 seconds
+  Import took 0.174257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.803144 seconds.
+  path: Assets/Animations/Characters/Purple.Alien.Override.overrideController
+  artifactKey: Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/Purple.Alien.Override.overrideController using Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e06bedae86d4f7ba513b28b8f291764d') in 0.006681 seconds
+  Import took 0.010411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002362 seconds.
+  path: Assets/Animations/Characters/Purple.Alien.Override.overrideController
+  artifactKey: Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/Purple.Alien.Override.overrideController using Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e06bedae86d4f7ba513b28b8f291764d') in 0.005836 seconds
+  Import took 0.009643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.534677 seconds.
+  path: Assets/Animations/Characters/PurpleAlien_1.controller
+  artifactKey: Guid(85cc7492cc40248a48749ac7bcafc11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/PurpleAlien_1.controller using Guid(85cc7492cc40248a48749ac7bcafc11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62184164f917bb9e79f297784ba3478b') in 0.005226 seconds
+  Import took 0.009266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.996934 seconds.
+  path: Assets/Animations/Characters/YellowAlien_2.controller
+  artifactKey: Guid(f971c534fe36e4eff9cf2e24d3d6b3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/YellowAlien_2.controller using Guid(f971c534fe36e4eff9cf2e24d3d6b3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115833c3e3df128885d18aa225244d45') in 0.005946 seconds
+  Import took 0.009711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.932184 seconds.
+  path: Assets/Animations/Characters/YellowAlienOverride.overrideController
+  artifactKey: Guid(18be43fa11eb4447f8504566d9f078aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/YellowAlienOverride.overrideController using Guid(18be43fa11eb4447f8504566d9f078aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229e32feb3a0a0002db30033af0628dc') in 0.005321 seconds
+  Import took 0.008782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007106 seconds.
+  path: Assets/Animations/Characters/YellowAlienOverride.overrideController
+  artifactKey: Guid(18be43fa11eb4447f8504566d9f078aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/YellowAlienOverride.overrideController using Guid(18be43fa11eb4447f8504566d9f078aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229e32feb3a0a0002db30033af0628dc') in 0.004704 seconds
+  Import took 0.008013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.635027 seconds.
+  path: Assets/Animations/Characters/PurpleAlienOverride.overrideController
+  artifactKey: Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/PurpleAlienOverride.overrideController using Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0571a80c95e4085d36fbf750ed244eb3') in 0.005043 seconds
+  Import took 0.008902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004586 seconds.
+  path: Assets/Animations/Characters/PurpleAlienOverride.overrideController
+  artifactKey: Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/PurpleAlienOverride.overrideController using Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0571a80c95e4085d36fbf750ed244eb3') in 0.004911 seconds
+  Import took 0.009034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.119346 seconds.
+  path: Assets/Animations/Characters/PurpleAlienOverride.overrideController
+  artifactKey: Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/PurpleAlienOverride.overrideController using Guid(9d2aba2c122f041408fa5afb7cb35858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892ceb3375f51bf0eb6991a6df678b9a') in 0.005817 seconds
+  Import took 0.009598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Animations/Characters/YellowAlienOverride.overrideController
+  artifactKey: Guid(18be43fa11eb4447f8504566d9f078aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/YellowAlienOverride.overrideController using Guid(18be43fa11eb4447f8504566d9f078aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0af7d939a4b2b8d0c8ba9983a4da9b87') in 0.006038 seconds
+  Import took 0.010690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.021256 seconds.
+  path: Assets/Animations/Characters/OrangeAlien_1.controller
+  artifactKey: Guid(99c080ca6cc394f70b6a912421471048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/OrangeAlien_1.controller using Guid(99c080ca6cc394f70b6a912421471048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6e40a767dc2da0d4e3e07dc8008a84') in 0.005090 seconds
+  Import took 0.009202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.534369 seconds.
+  path: Assets/Animations/Characters/purpleAlien.anim
+  artifactKey: Guid(6ac43427cac2a479586b8f712a16b282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Characters/purpleAlien.anim using Guid(6ac43427cac2a479586b8f712a16b282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f1b59eef63981d156cd16c05981348') in 0.176276 seconds
+  Import took 0.180075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.581201 seconds.
+  path: Assets/Animations/Bullets/Bullet_Allien_1.controller
+  artifactKey: Guid(bc5299d8b2b7e4ee99feccfac4758820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bullets/Bullet_Allien_1.controller using Guid(bc5299d8b2b7e4ee99feccfac4758820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15892e2b39864246164ceef38b866d59') in 0.004212 seconds
+  Import took 0.008122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.201290 seconds.
+  path: Assets/Animations/Bullets/Bullet_player.controller
+  artifactKey: Guid(06614217863a44fbba307077ca19b13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bullets/Bullet_player.controller using Guid(06614217863a44fbba307077ca19b13a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833aa9a27567c0f328009d7bd3e7bbd4') in 0.003447 seconds
+  Import took 0.007586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.110160 seconds.
+  path: Assets/Animations/Bullets/Explosion_1.controller
+  artifactKey: Guid(5e63ee17e4ab5480fb48a2baa7fb7131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bullets/Explosion_1.controller using Guid(5e63ee17e4ab5480fb48a2baa7fb7131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2b089b39bb2ca10d0674ef9aa82504') in 0.002323 seconds
+  Import took 0.006142 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001057 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.066 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.2 MB.
+System memory in use after: 180.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2602.
+Total: 2.385132 ms (FindLiveObjects: 0.228324 ms CreateObjectMapping: 0.083322 ms MarkObjects: 1.949143 ms  DeleteObjects: 0.123251 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 433.438884 seconds.
+  path: Assets/Prefabs/PurpleAlien.prefab
+  artifactKey: Guid(87ed7605ff906400f81d500088f5fd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PurpleAlien.prefab using Guid(87ed7605ff906400f81d500088f5fd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad386e4abe9d485cc96032f16f6daba5') in 0.092605 seconds
+  Import took 0.096486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041298 seconds.
+  path: Assets/Prefabs/PurpleAlien.prefab
+  artifactKey: Guid(87ed7605ff906400f81d500088f5fd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PurpleAlien.prefab using Guid(87ed7605ff906400f81d500088f5fd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad386e4abe9d485cc96032f16f6daba5') in 0.022077 seconds
+  Import took 0.025577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.902043 seconds.
+  path: Assets/Prefabs/YellowAlien.prefab
+  artifactKey: Guid(5e58e5306a4e14b81a02d8433a5d3013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/YellowAlien.prefab using Guid(5e58e5306a4e14b81a02d8433a5d3013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36509e1a01574d58c137232ad67524d2') in 0.020337 seconds
+  Import took 0.024119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002590 seconds.
+  path: Assets/Prefabs/YellowAlien.prefab
+  artifactKey: Guid(5e58e5306a4e14b81a02d8433a5d3013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/YellowAlien.prefab using Guid(5e58e5306a4e14b81a02d8433a5d3013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36509e1a01574d58c137232ad67524d2') in 0.025129 seconds
+  Import took 0.030139 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000584 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.153 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.5 MB.
+System memory in use after: 180.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2607.
+Total: 2.471661 ms (FindLiveObjects: 0.234020 ms CreateObjectMapping: 0.100506 ms MarkObjects: 2.030070 ms  DeleteObjects: 0.105115 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000763 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.255 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.7 MB.
+System memory in use after: 180.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2611.
+Total: 2.400410 ms (FindLiveObjects: 0.227753 ms CreateObjectMapping: 0.086834 ms MarkObjects: 1.973064 ms  DeleteObjects: 0.111494 ms)
+

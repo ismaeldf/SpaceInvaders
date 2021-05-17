@@ -7,12 +7,16 @@ using Random = UnityEngine.Random;
 public class Alien : MonoBehaviour, IShootable
 {
     public Team team;
+    
     [HideInInspector]
     public Weapon weapon;
+
+    private Animator animator;
 
     private void Awake()
     {
         weapon = GetComponentInChildren<Weapon>();
+        animator = GetComponent<Animator>();
     }
 
     private void Start() => StartCoroutine(AlienShooting());
@@ -20,7 +24,7 @@ public class Alien : MonoBehaviour, IShootable
     public void OnShot(Bullet bullet)
     {
         bullet.speed = 0;
-        Destroy(this.gameObject);
+        animator.SetTrigger("Death");
     }
 
     public Team GetTeam()
