@@ -47,6 +47,8 @@ public class Bullet : MonoBehaviour
 
             return;
         }
-        Destroy(this.gameObject);
+
+        speed = 0;
+        animator.SetTrigger(Hit);
     }
 }
