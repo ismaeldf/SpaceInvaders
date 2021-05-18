@@ -7,15 +7,24 @@ using UnityEngine.InputSystem;
 public class PlayerController : MonoBehaviour, IShootable
 {
     public Team team;
+    
     public float speed = 10;
+    
     private Vector2 movement;
+    
     private Rigidbody2D rb;
+    
     private Weapon weapon;
 
+    public int lives = 3;
+
+    private Animator animator;
+    
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         weapon = GetComponentInChildren<Weapon>();
+        animator = GetComponent<Animator>();
     }
 
     void FixedUpdate()
@@ -45,7 +54,9 @@ public class PlayerController : MonoBehaviour, IShootable
     public void OnShot(Bullet bullet)
     {
         bullet.speed = 0;
-        Destroy(this.gameObject);
+        lives--;
+        animator.SetTrigger("Death");
+        animator.SetInteger("Lives", lives);
     }
 
     public Team GetTeam()
